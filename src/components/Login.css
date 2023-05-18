@@ -1,0 +1,6 @@
+/* Set the background image of the body */
+body {
+  background-image: url("./Images/LoginWP.gif");  /* URL of the background image */
+  background-repeat: no-repeat;  /* Do not repeat the image */
+  background-size: cover;  /* Scale the image to cover the entire background */
+}

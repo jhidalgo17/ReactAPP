@@ -1,0 +1,14 @@
+/* Styles for the main page */
+.main-page {
+  background-color: #f8f8f8;  /* Background color of the main page */
+  padding: 20px;  /* Padding around the main page content */
+  text-align: center;  /* Center-align the content within the main page */
+}
+
+/* Styles for the main page title */
+.main-page-title {
+  color: #333;  /* Text color of the main page title */
+  font-size: 36px;  /* Font size of the main page title */
+  margin-bottom: 0;  /* Remove bottom margin from the main page title */
+}
+

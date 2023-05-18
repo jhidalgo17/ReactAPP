@@ -1,0 +1,7 @@
+/* Set the background image of the body */
+body {
+  background-image: url("./Images/RegisterWP.gif");  /* URL of the background image */
+  background-repeat: no-repeat;  /* Prevent the background image from repeating */
+  background-size: cover;  /* Scale the background image to cover the entire body */
+}
+
