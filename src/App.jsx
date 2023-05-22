@@ -40,7 +40,7 @@ export function App() {
     <>
       <div className="appContainer">
         {renderView()}
-        <button onClick={changeView}>CHANGE VIEW</button>
+        <button onClick={changeView}>LOGIN / REGISTER</button>
       </div>
     </>
   );
